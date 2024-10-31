@@ -1,1 +1,2 @@
-Atividade para a disciplina de usabilidade do professor Alexandre Montanha
+Atividade para a disciplina de usabilidade do professor Alexandre Montanha de godot.
+
